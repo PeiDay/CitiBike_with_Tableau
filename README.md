@@ -27,7 +27,7 @@
 
   ![Dashboard1](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard1.png)
 
-    The first dashbord shows the demographic of total reidership broken down by **User Type**, **Gender**, and **Age**.  
+##### The first dashbord shows the demographic of total reidership broken down by **User Type**, **Gender**, and **Age**.  
     
 
   * What are the peak hours in which bikes are used in different seasons?
