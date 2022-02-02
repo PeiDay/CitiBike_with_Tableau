@@ -25,19 +25,19 @@
   * What is the gender breakdown of active participants (Male v.s Female)?
   * What are the user types of active participants (Subscriber v.s. Customer)?
 
-  [!Dashboard1](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard1.png)
+  ![Dashboard1](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard1.png)
 
     The first dashbord shows the demographic of total reidership broken down by **User Type**, **Gender**, and **Age**.  
     
 
   * What are the peak hours in which bikes are used in different seasons?
 
-  [!Dashboard2](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard2.png)
+  ![Dashboard2](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard2.png)
 
 
   * What are the top 10 stations in the city for starting a journey?
   * What are the top 10 stations in the city for ending a journey?
 
-  [!Dashboard3](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard3.png)
-  [!Dashboard4](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard4.png)
+  ![Dashboard3](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard3.png)
+  ![Dashboard4](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard4.png)
 
