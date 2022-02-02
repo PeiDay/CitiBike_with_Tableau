@@ -21,25 +21,33 @@
 ## Analyzing and Visualization 
   Upon analyzing the Citi Bike data for 2020, several phenomena were uncovered. Through this analysis, some insights have been discovered that will help to inform business decisions moving forward.
 
+:bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike:
+
   * How many trips have been recorded total during 2020?
   * What is the gender breakdown of active participants (Male v.s Female)?
   * What are the user types of active participants (Subscriber v.s. Customer)?
 
   ![Dashboard1](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard1.png)
-
-### The first dashbord shows the demographic of total reidership broken down by **User Type**, **Gender**, and **Age**. 
+  
+  ### The first dashbord shows the demographic of total reidership broken down by **User Type**, **Gender**, and **Age**. 
     
 
-**:bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike:**
+:bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike:
+
 
   * What are the peak hours in which bikes are used in different seasons?
 
   ![Dashboard2](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard2.png)
+  
+  ### The peak month and hour
 
+:bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike:
 
   * What are the top 10 stations in the city for starting a journey?
   * What are the top 10 stations in the city for ending a journey?
 
   ![Dashboard3](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard3.png)
   ![Dashboard4](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard4.png)
+  
+  ### Popular bike stations
 
