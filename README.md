@@ -18,7 +18,7 @@
 3. Separate the Stations information and saved to another file. 
 4. Removed the Stations information, only keep Station ID for join, from all data in order to reduce the data size.
 
-** All the process of extracting is described along with the code in the __extract_CitiBike.ipynb__ of this repo.**
+    ** All the process of extracting is described along with the code in the __extract_CitiBike.ipynb__ of this repo.**
 
 ## Analyzing and Visualization 
   Upon analyzing the Citi Bike data for 2020, several phenomena were uncovered. Through this analysis, some insights have been discovered that will help to inform business decisions moving forward.
@@ -30,25 +30,21 @@
 
   ![Dashboard1](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard1.png)
   
-  ### The first dashbord shows the demographic of total reidership broken down by **User Type**, **Gender**, and **Age**. 
-    
 
 :bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike:
 
 
-  * What are the peak hours in which bikes are used in different seasons?
+  * The busiest month was September during 2020. The whole month of April was on lockdown due to the COVID19 outbreak, therefore, the total rides in April was significant lower. The peak riding hours are between 5pm to 6pm on weekdays, it could be to avoid the crowd in the subway when a lot people are rushing to get back home from work. For the weekend, the peak hour is between 12pm to 4pm, though the peak times throughout week are relatively steady.
+  * On a larger scale, the peak times for each month grouped by different seasons were analyzed. As suspected, there is an increase throughout the summer and fall months, most likely due to the warmer weather and the increase in daylight hours. 
 
   ![Dashboard2](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard2.png)
   
-  ### The peak month and hour
 
 :bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike::bike:
 
-  * What are the top 10 stations in the city for starting a journey?
-  * What are the top 10 stations in the city for ending a journey?
+  * The top 10 most popular stations to start and end a ride are in the middle of the city which provides a central and convenient location for riders. These places are close to some of the busiest area in the city.
 
   ![Dashboard3](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard3.png)
   ![Dashboard4](https://github.com/PeiDay/CitiBike_with_Tableau/blob/main/images/Dashboard4.png)
   
-  ### Popular bike stations
 
